@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99271572067",
+    "project_id": "smartfit-3fd50",
+    "storage_bucket": "smartfit-3fd50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99271572067:android:10d67095cbdacf77d15656",
+        "android_client_info": {
+          "package_name": "com.marcos.smartfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3et_K7wVqi2mnxEpYPPGy5d90w0D9z2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
